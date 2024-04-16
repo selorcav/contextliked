@@ -1,13 +1,5 @@
-# React + Vite
+# Enlace a sitio
 
-## Install
+URL [Ir al Sitio](https://venerable-douhua-36d2bc.netlify.app/)
 
-```bash
-npm install
-```
 
-## Run
-
-```bash
-npm run dev
-```
